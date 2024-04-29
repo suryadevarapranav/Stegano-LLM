@@ -1,5 +1,9 @@
 # Stegano-LLM: AI-Powered Steganography
 
+## COMP 642 - Machine Learning, Spring 24
+
+## Dr. Anshumali Srivastava - Divit Patidar & Pranav Suryadevara.
+
 ## Introduction
 
 Stegano-LLM is an innovative project that leverages the power of large language models (LLMs) to revolutionize the field of steganography. By seamlessly integrating cutting-edge artificial intelligence and natural language processing techniques, this project introduces a novel approach to concealing sensitive data within AI-generated textual prompts.
