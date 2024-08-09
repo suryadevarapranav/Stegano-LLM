@@ -1,8 +1,11 @@
 # Stegano-LLM: AI-Powered Steganography
 
 ## COMP 642 - Machine Learning, Spring 24
+#### Course Instructor: Dr. Anshumali Shrivastava
 
-## Dr. Anshumali Srivastava - Divit Patidar & Pranav Suryadevara.
+**Team Members**: <br/>
+[Divit Patidar](https://github.com/divitcr7) - dp78@rice.edu <br/>
+Pranav Suryadevara - pranav.suryadevara@rice.edu
 
 ## Introduction
 
